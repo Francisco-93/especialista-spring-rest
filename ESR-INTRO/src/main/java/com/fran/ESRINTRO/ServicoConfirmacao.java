@@ -20,4 +20,12 @@ public class ServicoConfirmacao {
             throw new RuntimeException("Notificador está nulo!");
         }
     }
+
+    public void sayHello(){
+        System.out.println("Acabei de ser construído - ServicoConfirmacao");
+    }
+
+    public void sayBye(){
+        System.out.println("Estou indo embora tchau - ServicoConfirmacao");
+    }
 }
