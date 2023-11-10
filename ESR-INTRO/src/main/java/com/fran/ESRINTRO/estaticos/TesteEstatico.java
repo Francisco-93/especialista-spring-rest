@@ -1,4 +1,4 @@
-package com.fran.ESRINTRO;
+package com.fran.ESRINTRO.estaticos;
 
 import java.util.ArrayList;
 import java.util.List;

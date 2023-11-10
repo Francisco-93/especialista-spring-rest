@@ -1,4 +1,4 @@
-package com.fran.ESRINTRO;
+package com.fran.ESRINTRO.domain;
 
 public class Notificador {
 

@@ -1,4 +1,4 @@
-package com.fran.ESRINTRO;
+package com.fran.ESRINTRO.enums;
 
 public enum NivelUrgencia {
 
